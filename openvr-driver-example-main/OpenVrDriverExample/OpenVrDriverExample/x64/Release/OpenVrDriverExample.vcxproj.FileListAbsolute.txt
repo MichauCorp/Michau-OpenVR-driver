@@ -1,0 +1,2 @@
+C:\Users\yonat\OneDrive\Desktop\openvr-driver-example-main\OpenVrDriverExample\OpenVrDriverExample\x64\Release\OpenVrDriverExample.vcxproj.CopyComplete
+C:\Users\yonat\OneDrive\Desktop\openvr-driver-example-main\OpenVrDriverExample\OpenVrDriverExample\x64\Release\OpenVrDriverExample.vcxproj.AssemblyReference.cache
