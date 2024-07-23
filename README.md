@@ -1,5 +1,5 @@
 # Michau-OpenVR-driver
-This is a FinallyFunctionals steamVR driver designed for Michau. it translates a speed message to joystick movement.
+This is a FinallyFunctionals steamVR driver designed for a custom controller. it translates a speed message sent through a serial BT connection to joystick movement.
 also includes directory design within steam called MichauTest1
 
 this repository contains 2 parts:
