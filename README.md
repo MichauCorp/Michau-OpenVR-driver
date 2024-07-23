@@ -10,7 +10,7 @@ this repository contains 2 parts:
 TO INSTALL:
 
 1. download the ZIP folder
-2. extract MichauTest1 (the finished driver with folder structre)
+2. extract MichauTest1 (the finished driver with folder structure)
 3. put it in the following folder (D:\Program Files\Steam\steamapps\common\SteamVR\drivers)
 4. for each game if there is no input profile used, go to the SteamVR UI for binding profile and create one which binds the joystick.
 
