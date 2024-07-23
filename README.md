@@ -4,7 +4,7 @@ also includes directory design within steam called MichauTest1
 
 this repository contains 2 parts:
 
-1. MichauTest1: a built driver with a complete folder structre
+1. MichauTest1: a built driver with a complete folder structure
 2. openvr-driver-example-main: the unbuilt source code ready for editing
 
 TO INSTALL:
